@@ -25,7 +25,11 @@ THEN the saved events persist!
 
 ## Live application
 
+<<<<<<< HEAD
 assets/webpage-screenshot.png
+=======
+webpage-screenshot.png
+>>>>>>> 5839b911c66153968fc5643485b19c8c0ba18448
 
 ## Repo link
 https://github.com/Hannahbird/Daily-scheduler
