@@ -76,11 +76,11 @@ body {
   }
   
   .red {
-    color: #ff6961;
+    color: #fb5148;
     font-family: 'Times New Roman', Times, serif;
   }
   
-  .bi-check2 {
+  .bi-check2-all {
     color: darkgreen;
     font-size: 1.3rem;
   }
@@ -170,7 +170,7 @@ body {
 
   .jumbotron {
     padding-bottom: 20px;
-    background-color: antiquewhite;
+    background-color: var(--background-color);
   }
 
   #currentDay {
@@ -198,7 +198,7 @@ body {
     border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;
     border-top-right-radius: 0;
-    background-color: #06AED5;
+    background-color: var(--save-btn-color);
     color: white;
     text-align: center;
     padding-top: 10px;
@@ -208,7 +208,7 @@ body {
   .saveBtn:focus {
     font-size: 16px;
     transition: all .3s ease-in-out;
-    background-color: palevioletred;
+    background-color: var(--save-btn-hover-color);
   }
 
   .time-block{
