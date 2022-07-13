@@ -1,4 +1,5 @@
 # Daily-scheduler
+Better than a palm pilot
 
 ## User Story
 
